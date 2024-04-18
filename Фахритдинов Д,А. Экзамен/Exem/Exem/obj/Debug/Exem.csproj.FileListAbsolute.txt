@@ -1,0 +1,28 @@
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\bin\Debug\Exem.exe.config
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\bin\Debug\Exem.exe
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\bin\Debug\Exem.pdb
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.csproj.AssemblyReference.cache
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.Form1.resources
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.Properties.Resources.resources
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.csproj.GenerateResource.cache
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.csproj.CoreCompileInputs.cache
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.exe
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.pdb
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.MainForm.resources
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.Registrat.resources
+C:\Users\0_311_1\Desktop\Васильева Экзамен\Exem\Exem\obj\Debug\Exem.Ohas.resources
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\bin\Debug\Exem.exe.config
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\bin\Debug\Exem.exe
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\bin\Debug\Exem.pdb
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.csproj.AssemblyReference.cache
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.Form1.resources
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.MainForm.resources
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.Ohas.resources
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.Properties.Resources.resources
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.Registrat.resources
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.csproj.GenerateResource.cache
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.csproj.CoreCompileInputs.cache
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.exe
+C:\Users\0_311_1\Desktop\Фахритдинов Д,А. Экзамен\Exem\Exem\obj\Debug\Exem.pdb
